@@ -20,7 +20,7 @@
 <a href="https://github.com/gauravsingh089">
   <img align="left" alt="Gaurave's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.hackerrank.com/gaurav_singh_867">
+<a href="https://www.hackerrank.com/gauravsingh089?hr_r=1">
   <img align="left" alt="Gaurav's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 </p>
