@@ -1,18 +1,20 @@
 <h1 align="center">Hi, 👋 I’m Gaurav Singh</h1>
 <h3 align="center">Technology Enthusiast</h3>
 
-- 👀 I’m interested in DevOps, Cloud platform engineering, Java Developement, Python Development, Data Engineering, Data Science, Machine learning.
-- 🌱 I’m currently learning AWS Cloud, Data Science and Java Microservice development.
-- 💞️ I’m looking to collaborate on interesting projects in Data and Cloud.
+I am currenlty working as Senior Platform Engineer at Fidelity. I have 11 plus years of experience working on all aspects of platform engineering and application support in Investment Banking and Financial domain. 
+
+- 👀 I’m interested in DevOps, Cloud platform engineering, Java & Python Development, Data Science, Machine learning.
+- 🌱 I’m currently learning AWS Cloud, Data Science in Python and Java SpringBoot Microservice development.
+- 💞️ I’m looking to collaborate on interesting projects.
+
+### Programming Languages Preference: :computer:
+
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 
 
-### Tech & Tools Preference: :computer:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
----
-
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 <p>
 <a href="https://www.linkedin.com/in/gauravsingh089/">
   <img align="left" alt="Gaurav's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
