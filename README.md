@@ -13,7 +13,6 @@ I am currenlty working as Senior Platform Engineer at Fidelity. I have 11 plus y
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 
-
 ### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 <p>
 <a href="https://www.linkedin.com/in/gauravsingh089/">
