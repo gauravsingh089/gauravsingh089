@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 👋 I’m Gaurav Singh</h1>
 <h3 align="center">Technology Enthusiast</h3>
 
-- 👀 I’m interested in DevOps, Cloud platform engineering, Java Developement, Python Development, Data Engineering, Data License, Machine learning.
+- 👀 I’m interested in DevOps, Cloud platform engineering, Java Developement, Python Development, Data Engineering, Data Science, Machine learning.
 - 🌱 I’m currently learning AWS Cloud, Data Science and Java Microservice development.
 - 💞️ I’m looking to collaborate on interesting projects in Data and Cloud.
 - 📫 You can connect with me in LinkedIn https://www.linkedin.com/in/gauravsingh089
