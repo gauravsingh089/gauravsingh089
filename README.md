@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 👋 I’m Gaurav Singh</h1>
 <h3 align="center">Technology Enthusiast</h3>
 
-I am currenlty working as Senior Platform Engineer at Fidelity. I have 11 plus years of experience working on all aspects of platform engineering and application support in Investment Banking and Financial domain. 
+I am currenlty working as Senior Platform Engineer at Fidelity. I have 12 plus years of experience working on all aspects of platform engineering and application support in Investment Banking and Financial domain. 
 
 - 👀 I’m interested in DevOps, Cloud platform engineering, Java & Python Development, Data Science, Machine learning.
 - 🌱 I’m currently learning AWS Cloud, Data Science in Python and Java SpringBoot Microservice development.
