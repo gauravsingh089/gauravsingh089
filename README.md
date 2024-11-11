@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 👋 I’m Gaurav Singh</h1>
 <h3 align="center">Technology Enthusiast</h3>
 
-I am currenlty working as Senior Platform Engineer at Fidelity. I have many years of experience working on all aspects of platform engineering and application development in Investment Banking and Financial domain. 
+I’m an experienced and results-driven technologist with a strong foundation in the investment management and financial services sectors. I specialise in implementing and optimising platforms like Charles River IMS and am skilled in a wide range of programming languages and cloud technologies to drive efficiency and innovation. I am recognised for my commitment to continuous learning and my ability to tackle complex challenges with strategic, forward-thinking solutions. I’m passionate about implementing innovative technological solutions for business customers and delivering value through streamlined, scalable systems.
 
 - 👀 I’m interested in DevOps, Cloud platform engineering, Java & Python Development, Data Science, Machine learning and Artificial Intelligence.
 - 🌱 I’m currently learning and working on AWS Cloud, Terraform ( IaC ) , K8s , Python and Java SpringBoot Microservice development.
